@@ -3,7 +3,7 @@ Tarefa 01 - 3 Exercícios de HTML/CSS, sendo o primeiro CSS INLINE, o segundo CS
 
 # Direcionadores
 
-1 - Crie um documento HTML/CSS que utilize estilizações CSS INLINE (em linha, o style embutido na tag no HTML), onde:
+    1 - Crie um documento HTML/CSS que utilize estilizações CSS INLINE (em linha, o style embutido na tag no HTML), onde:
 
     A) Tenha uma div que:
 
@@ -57,17 +57,17 @@ Tarefa 01 - 3 Exercícios de HTML/CSS, sendo o primeiro CSS INLINE, o segundo CS
 
 
 
-2 - Refaça o exercício anterior utilizando CSS INTERNO, cores, tamanhos e fontes diferentes (livre);
+        2 - Refaça o exercício anterior utilizando CSS INTERNO, cores, tamanhos e fontes diferentes (livre);
 
 
-3 - Refaça o exercício anterior utilizando CSS EXTERNO, cores, tamanhos e fontes diferentes (livre);
+        3 - Refaça o exercício anterior utilizando CSS EXTERNO, cores, tamanhos e fontes diferentes (livre);
 
 
 
 
-- Formato de entrega:
+ # Formato de entrega:
 
-Crie um repositório PÚBLICO para subir o código desenvolvido, e envie aqui neste tópico do Moodle o endereço do GitHub contendo seu repositório com os arquivos criados para esta tarefa.
+        Crie um repositório PÚBLICO para subir o código desenvolvido, e envie aqui neste tópico do Moodle o endereço do GitHub contendo seu repositório com os arquivos criados para esta tarefa.
 
 
 
