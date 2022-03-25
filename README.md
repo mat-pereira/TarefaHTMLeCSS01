@@ -13,8 +13,6 @@ Tarefa 01 - 3 Exercícios de HTML/CSS, sendo o primeiro CSS INLINE, o segundo CS
 
         a3) Tenha uma altura fixa de 500 pixels;
 
-
-
     B) Tenha outra div que:
 
         b1) Seja filha da div A);
@@ -24,8 +22,6 @@ Tarefa 01 - 3 Exercícios de HTML/CSS, sendo o primeiro CSS INLINE, o segundo CS
         b3) Ocupe METADE da altura do elemento PAI;
 
         b4) Ocupe METADE da largura do elemento PAI;
-
-
 
     C) Tenha um parágrafo que:
 
@@ -39,32 +35,30 @@ Tarefa 01 - 3 Exercícios de HTML/CSS, sendo o primeiro CSS INLINE, o segundo CS
 
         c5) A fonte seja monospace;
 
-c6) A fonte deve estar em negrito (NÃO UTILIZAR A TAG <b>)
-
-
+        c6) A fonte deve estar em negrito (NÃO UTILIZAR A TAG <b>)
 
     D) Abaixo do elemento do item A), tenha uma outra div que:
 
-d1) Tenha METADE da largura do body
+        d1) Tenha METADE da largura do body
 
-d2) Tenha 50% de altura da JANELA DE EXIBIÇÃO (viewport height);
+        d2) Tenha 50% de altura da JANELA DE EXIBIÇÃO (viewport height);
 
-d3) Tenha a cor de fundo azul claro (utilize o RGB);
-
-
+        d3) Tenha a cor de fundo azul claro (utilize o RGB);
 
     E) Crie outra div que:
 
-e1) Seja filha da div D);
+       e1) Seja filha da div D);
 
-e2) Tenha 75% de largura da JANELA DE EXIBIÇÃO (viewport width);
+       e2) Tenha 75% de largura da JANELA DE EXIBIÇÃO (viewport width);
 
-e3) Tenha 50% de altura do elemento PAI;
+       e3) Tenha 50% de altura do elemento PAI;
 
-e4) Tenha cor de fundo vermelha (utilize o RGB);
+       e4) Tenha cor de fundo vermelha (utilize o RGB);
+
 
 
 2 - Refaça o exercício anterior utilizando CSS INTERNO, cores, tamanhos e fontes diferentes (livre);
+
 
 3 - Refaça o exercício anterior utilizando CSS EXTERNO, cores, tamanhos e fontes diferentes (livre);
 
