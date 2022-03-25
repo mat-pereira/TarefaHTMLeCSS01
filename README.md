@@ -2,6 +2,7 @@
 Tarefa 01 - 3 Exercícios de HTML/CSS, sendo o primeiro CSS INLINE, o segundo CSS INTERNO e o terceiro CSS EXTERNO (linkado)
 
 # Direcionadores
+
 1 - Crie um documento HTML/CSS que utilize estilizações CSS INLINE (em linha, o style embutido na tag no HTML), onde:
 
     A) Tenha uma div que:
